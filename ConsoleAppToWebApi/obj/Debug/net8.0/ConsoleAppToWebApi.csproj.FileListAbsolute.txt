@@ -1,0 +1,14 @@
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\bin\Debug\net8.0\ConsoleAppToWebApi.exe
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\bin\Debug\net8.0\ConsoleAppToWebApi.deps.json
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\bin\Debug\net8.0\ConsoleAppToWebApi.runtimeconfig.json
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\bin\Debug\net8.0\ConsoleAppToWebApi.dll
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\bin\Debug\net8.0\ConsoleAppToWebApi.pdb
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\ConsoleAppToWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\ConsoleAppToWebApi.AssemblyInfoInputs.cache
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\ConsoleAppToWebApi.AssemblyInfo.cs
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\ConsoleAppToWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\ConsoleAppToWebApi.dll
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\refint\ConsoleAppToWebApi.dll
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\ConsoleAppToWebApi.pdb
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\ConsoleAppToWebApi.genruntimeconfig.cache
+C:\Users\Ankan_Sadhukhan\source\repos\LearningProject\ConsoleAppToWebApi\ConsoleAppToWebApi\obj\Debug\net8.0\ref\ConsoleAppToWebApi.dll
